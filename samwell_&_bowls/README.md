@@ -6,4 +6,4 @@
 
 Now, Samwell's friend adds 1 more marble to the last bowl. After this addition, all the bowls must still be aligned with the rules mentioned above. Adding a marble follows the same rules as of addition with carry-overs.
 
-You are given the initial list of number of marbles in each bowl. Find the position of the bowl which was last modified. (Assuming indexing starts
+You are given the initial list of number of marbles in each bowl. Find the position of the bowl which was last modified. 
