@@ -1,6 +1,6 @@
-#Samwell laid out N bowls in a straight line and put a few marbles randomly in each bowl such that:
+### Samwell laid out N bowls in a straight line and put a few marbles randomly in each bowl such that:
 
-1. A bowl can never have more than 9 marbles at a time.
+ 1. A bowl can never have more than 9 marbles at a time.
 
 2. A bowl can have 0 marbles.
 
