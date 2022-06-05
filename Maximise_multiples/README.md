@@ -16,3 +16,10 @@ Consider n=4, m=2, k=2, and arr[] = [1, 2, 3, 4, 5].
 ## Output 
 
 Count of number of multiples of 'm'
+
+## Usage
+
+### run maximise.py 
+
+- python3 maximise.py (OR)
+- python maximise.py
