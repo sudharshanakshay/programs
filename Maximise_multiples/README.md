@@ -21,5 +21,5 @@ Count of number of multiples of 'm'
 
 ### run maximise.py 
 
-- python3 maximise.py (OR)
-- python maximise.py
+- $ python3 maximise.py (OR)
+- $ python maximise.py
