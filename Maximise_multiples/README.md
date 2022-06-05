@@ -13,3 +13,6 @@ Consider n=4, m=2, k=2, and arr[] = [1, 2, 3, 4, 5].
 - Let's add 1 to arr[0], and add 1 to arr[2], then the final array is arr[]=[2,2,4,4,5].
 - Now there are 4 elements which are multiples of m (=2).
 
+## Output 
+
+Count of number of multiples of 'm'
